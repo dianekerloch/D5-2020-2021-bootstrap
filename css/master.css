@@ -1,0 +1,21 @@
+
+
+body {
+  background: #E2F0EE;
+}
+
+.logo {
+margin: 35px;
+}
+
+.carousel-item {  background: #F56924;}
+
+video {
+  background: #F56924;
+ margin: auto;
+ object-fit: cover;
+}
+
+h2 {
+font-family: 'Fredoka One', cursive;
+}
